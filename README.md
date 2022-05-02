@@ -1,6 +1,7 @@
 - 👋 Olá, eu sou @LcSantos91
 - 👀 Estou interessado em HTML, CSS, JavaScript e outras tecnologias front-end
 - 🌱 Atualmente estou aprendendo HTML5 e CSS
+- 📚 Neste perfil eu estarei publicando meus exercícios realizados
 - 💞️ Atualmente não sei com o que colaborar, mas pretendo descobrir o quanto antes 😘
 - 📫 Você pode me contatar através do meu e-mail lcsantos@gmx.com
 
